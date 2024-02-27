@@ -2,8 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Baekjoon2309 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) { Scanner sc = new Scanner(System.in);
         int [] dwarfs = new int[9];
         int sum = 0;
         int liar1= 0, liar2 = 0;
