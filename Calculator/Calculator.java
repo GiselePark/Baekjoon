@@ -7,7 +7,6 @@ public class Calculator {
     int num1 = sc.nextInt();
     int num2 = sc.nextInt();
 
-    if(num1<=1&&num2<=10000){
-
-    }
+//    if(num1<=1&&num2<=10000){
+//    }
 }
